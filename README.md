@@ -23,3 +23,9 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Browse the hosted application
+
+Open [https://dainty-clafoutis-9e18b0.netlify.app/](https://dainty-clafoutis-9e18b0.netlify.app/)
+
+- Paste the url of any online articles to view the summary of it
